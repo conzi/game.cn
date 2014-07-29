@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string><![CDATA[http://zcshy.oss.aliyuncs.com/beyond/packages/ipas/cn.game.beyond.ios.lh/by_ios_lh.8300.1.0.0.3073.3042-07291331.ipa]]></string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>http://hy-game-cn.oss.aliyuncs.com/static/mobile/images/icon.png</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>http://hy-game-cn.oss.aliyuncs.com/static/mobile/images/icon.png</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>cn.game.beyond.ios.lh</string>
+        <key>bundle-version</key>
+        <string>1.0.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>subtitle</key>
+        <string><![CDATA[忍者百分百]]></string>
+        <key>title</key>
+        <string><![CDATA[忍者百分百,请确保您的设备已越狱。]]></string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
